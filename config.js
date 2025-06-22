@@ -8,7 +8,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "put your session id here",
+SESSION_ID: process.env.SESSION_ID || "MEGALODON~MD~VV4ASYjL#XxMHl9ejTvVdUiXuppGsvbnsf1IN81YEFgXkw7Cz280",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -80,7 +80,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // show typing status   
 READ_CMD: process.env.READ_CMD || "false",
 // mark commands as read 
-DEV: process.env.DEV || "50934960331",
+DEV: process.env.DEV || "221787031624",
 // your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // anti view once 
